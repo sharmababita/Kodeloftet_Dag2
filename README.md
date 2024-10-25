@@ -40,4 +40,11 @@ Add a list to the website, for example your top 5 games, artists, movies or simi
 **Bonus**:
 If you know CSS, add some styling to the website using colors and fonts.
 
+**Resources**-----------------------------------
+
+https://www.w3schools.com/html/default.asp?authuser=0
+
+https://www.w3schools.com/tags/default.asp?authuser=0
+
+https://www.w3schools.com/html/html5_semantic_elements.asp?authuser=0
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/sharmababita/Kodeloftet_Dag2)
