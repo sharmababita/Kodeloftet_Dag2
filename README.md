@@ -44,6 +44,8 @@ If you know CSS, add some styling to the website using colors and fonts.
 
 https://www.w3schools.com/html/default.asp?authuser=0
 
+https://github.com/JulieKodehode/kodeloftetG11_undervisning2?authuser=0
+
 https://www.w3schools.com/tags/default.asp?authuser=0
 
 https://www.w3schools.com/html/html5_semantic_elements.asp?authuser=0
